@@ -1,7 +1,7 @@
 # Python-Cisco-Autoconnect
 Python windows gui automation tool to automate process of connecting to Cisco VPN
 
-Put your RSA password inside the rsa.txt file. Make sure that there is no trailing spaces or new line after the password.
+In the rsa.txt file, replace demo password 1234 with your RSA password and save it. Make sure that there is no trailing spaces or new line after the password.
 
 Python version 3.7.0 is needed for execution. Also install pyautogui tool using pip command
 ```pip install pyautogui```
